@@ -13,7 +13,7 @@ def send_mail_exp(variable,subject):
     smtp_server = "smtp-mail.outlook.com"
     smtp_port = 587
     smtp_username = sender_email
-    smtp_password = "tksispyfndupbdqg"  # Generate this in your Outlook/Hotmail account settings
+    smtp_password = ""  # Generate this in your Outlook/Hotmail account settings
 
     message = MIMEMultipart()
     message["From"] = sender_email
