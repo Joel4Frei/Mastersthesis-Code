@@ -1,0 +1,5 @@
+variable,available,pseudonym
+tracks,True,tracks
+intensity,True,led_intensity
+duration,True,stim_duration
+stim,True,stim
