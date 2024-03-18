@@ -37,22 +37,22 @@ There are four main experiments, two micropatterning codes, two viewers and addi
 
 
   Additions
-    - Required for pipeline
-      - acquisition
-      - stim
-      - utils
-      - semantic segmentation
-    - Value
-        Tinker window for easy stim regime input
-    - Tools
+  - Required for pipeline
+    - acquisition
+    - stim
+    - utils
+    - semantic segmentation
+  - Value
+      Tinker window for easy stim regime input
+  - Tools
         Include functions for mask creation and function to get next experiment number
-    - Offset
+  - Offset
         Calculate offset for stimulation
-    - Mail
+  - Mail
         Send mails during experiment for remote overview over exp status
-    - Checklist
+  - Checklist
         Create checklist before exp start
-    - Anch mask
+  - Anch mask
         For bottom / top stimulation mask creation
         
 
