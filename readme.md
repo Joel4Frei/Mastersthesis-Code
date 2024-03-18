@@ -32,7 +32,7 @@ There are four main experiments, two micropatterning codes, two viewers and addi
   Viewers
   - Dask Viewer
       Simple viewer of tiff image stacks of experiment including masks.
-  - Superviewer
+  - Superviewer (found in sperate repository /super-viewer)
       Sophisticated viewer to load image stacks of experiment, descriptions of FOV/experiment and graph ERK graphs
 
 
